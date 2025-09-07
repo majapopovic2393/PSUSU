@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\PLCSimulator\bin\Debug\PLCSimulator.dll
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\PLCSimulator\bin\Debug\PLCSimulator.pdb
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\PLCSimulator\obj\Debug\PLCSimulator.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\PLCSimulator\obj\Debug\PLCSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\PLCSimulator\obj\Debug\PLCSimulator.dll
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\PLCSimulator\obj\Debug\PLCSimulator.pdb
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\PLCSimulator\bin\Debug\PLCSimulator.dll
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\PLCSimulator\bin\Debug\PLCSimulator.pdb
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\PLCSimulator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\PLCSimulator\obj\Debug\PLCSimulator.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\PLCSimulator\obj\Debug\PLCSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\PLCSimulator\obj\Debug\PLCSimul.7DFBA356.Up2Date
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\PLCSimulator\obj\Debug\PLCSimulator.dll
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\PLCSimulator\obj\Debug\PLCSimulator.pdb
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\PLCSimulator\bin\Debug\System.Data.SQLite.xml

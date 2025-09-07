@@ -1,0 +1,20 @@
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\DataConcentrator\bin\Debug\DataConcentrator.dll
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\DataConcentrator\bin\Debug\DataConcentrator.pdb
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.dll
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.pdb
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\DataConcentrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\DataConcentrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Projeakt2025\PSUSUproject\DataConcentrator\obj\Debug\DataConc.AF26BFFF.Up2Date
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\bin\Debug\DataConcentrator.dll
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\bin\Debug\DataConcentrator.pdb
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\obj\Debug\DataConc.AF26BFFF.Up2Date
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.dll
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.pdb
+C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\bin\Debug\System.Data.SQLite.xml

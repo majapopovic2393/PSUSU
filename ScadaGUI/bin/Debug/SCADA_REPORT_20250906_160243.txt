@@ -1,0 +1,2 @@
+1 (Neki Opis): vrednosti u opsegu 40 - 50
+2 (Neki Opis): vrednosti u opsegu 42.5 - 52.5

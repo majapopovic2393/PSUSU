@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DataConcentrator
+{
+    using DataConcentrator;
+
+    internal class ContextClass
+    {
+        // Skladište svih tagova po ID
+        private Dictionary<string, Tag> tags = new Dictionary<string, Tag>();
+
+        public IReadOnlyDictionary<string, Tag> Tags => tags;
+
+        public bool AddTag(Tag tag)
+        {
+            // Validacija: ID mora biti jedinstven
+            if (tag == null || string.IsNullOrWhiteSpace(tag.Id) || tags.ContainsKey(tag.Id))
+                return false;
+
+            // Validacija: units samo za analogne tagove
+            if ((tag is DigitalTag) && tag is AnalogTag analogTag && !string.IsNullOrWhiteSpace(analogTag.Units))
+                return false;
+
+            tags.Add(tag.Id, tag);
+            return true;
+        }
+
+        public bool RemoveTag(string id)
+        {
+            return tags.Remove(id);
+        }
+    }
+}

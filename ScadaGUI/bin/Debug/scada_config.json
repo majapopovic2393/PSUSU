@@ -1,0 +1,45 @@
+{
+  "$type": "<>f__AnonymousType0`2[[System.Collections.Generic.List`1[[DataConcentrator.Tag, DataConcentrator]], mscorlib],[System.Collections.Generic.List`1[[DataConcentrator.ActivatedAlarm, DataConcentrator]], mscorlib]], DataConcentrator",
+  "Tags": {
+    "$type": "System.Collections.Generic.List`1[[DataConcentrator.Tag, DataConcentrator]], mscorlib",
+    "$values": [
+      {
+        "$type": "DataConcentrator.AnalogTag, DataConcentrator",
+        "ScanTime": 0,
+        "OnOffScan": false,
+        "LowLimit": 20.0,
+        "HighLimit": 80.0,
+        "Units": "Units",
+        "InitialValue": 0.0,
+        "Alarms": {
+          "$type": "System.Collections.Generic.List`1[[DataConcentrator.Alarm, DataConcentrator]], mscorlib",
+          "$values": []
+        },
+        "Type": 2,
+        "Id": "1",
+        "Description": "prvi",
+        "IOAddress": "dddd",
+        "Properties": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib"
+        }
+      },
+      {
+        "$type": "DataConcentrator.DigitalTag, DataConcentrator",
+        "ScanTime": 0,
+        "OnOffScan": false,
+        "Type": 1,
+        "Id": "2",
+        "Description": "drugi",
+        "IOAddress": "di",
+        "Properties": {
+          "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+          "Value": 0
+        }
+      }
+    ]
+  },
+  "ActivatedAlarms": {
+    "$type": "System.Collections.Generic.List`1[[DataConcentrator.ActivatedAlarm, DataConcentrator]], mscorlib",
+    "$values": []
+  }
+}
