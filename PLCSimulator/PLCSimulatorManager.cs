@@ -41,10 +41,18 @@ namespace PLCSimulator
             // DI
             // TODO: dodati jos nekoliko adresa za DI (recimo po 4 za svaku vrstu tagova)
             addressValues.Add("ADDR009", 0);
-
+            addressValues.Add("ADDR015", 0);
+            addressValues.Add("ADDR016", 0);
+            addressValues.Add("ADDR017", 0);
+            addressValues.Add("ADDR018", 0);
             // DO
             // TODO: dodati jos nekoliko adresa za DI (recimo po 4 za svaku vrstu tagova)
             addressValues.Add("ADDR010", 0);
+            addressValues.Add("ADDR011", 0);
+            addressValues.Add("ADDR012", 0);
+            addressValues.Add("ADDR013", 0);
+            addressValues.Add("ADDR014", 0);
+
         }
 
         public void StartPLCSimulator()
@@ -90,11 +98,48 @@ namespace PLCSimulator
                     {
                         addressValues["ADDR009"] = 0;
                     }
+                
+                
+                    if (addressValues["ADDR015"] == 0)
+                    {
+                        addressValues["ADDR015"] = 1;
+                    }
+                    else
+                    {
+                        addressValues["ADDR015"] = 0;
+                    }
+
+                    if (addressValues["ADDR016"] == 0)
+                    {
+                        addressValues["ADDR016"] = 1;
+                    }
+                    else
+                    {
+                        addressValues["ADDR016"] = 0;
+                    }
+
+                    if (addressValues["ADDR017"] == 0)
+                    {
+                        addressValues["ADDR017"] = 1;
+                    }
+                    else
+                    {
+                        addressValues["ADDR017"] = 0;
+                    }
+
+                    if (addressValues["ADDR018"] == 0)
+                    {
+                        addressValues["ADDR018"] = 1;
+                    }
+                    else
+                    {
+                        addressValues["ADDR018"] = 0;
+                    }
                 }
             }
         }
 
-        public double GetAnalogValue(string address)
+        public double GetAnalogValue(string address) // vraca trenutnu vrednost sa adrese
         {
             lock (locker)
             {
@@ -109,7 +154,7 @@ namespace PLCSimulator
             }
         }
 
-        public void SetAnalogValue(string address, double value)
+        public void SetAnalogValue(string address, double value) // postavlja vrednost na adresu (samo za AO)
         {
             lock (locker)
             {
@@ -120,7 +165,7 @@ namespace PLCSimulator
             }
         }
 
-        public void SetDigitalValue(string address, double value)
+        public void SetDigitalValue(string address, double value) // postavlja vrednost na adresu (samo za DO)
         {
             lock (locker)
             {
@@ -139,7 +184,7 @@ namespace PLCSimulator
             return minValue + (next * (maxValue - minValue));
         }
 
-        public void Abort()
+        public void Abort() //za zaustavljanje simulacije
         {
             t1.Abort();
             t2.Abort();

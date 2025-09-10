@@ -18,3 +18,14 @@ C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproje
 C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.dll
 C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.pdb
 C:\Users\Korisnik\Desktop\cetvrta godina letnji\PSUSU\Projekat - Copy\PSUSUproject\DataConcentrator\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\Scada\Projekat - ISPRAVNA VERZIJA\PSUSUproject\DataConcentrator\bin\Debug\DataConcentrator.dll
+C:\Users\Administrator\Desktop\Scada\Projekat - ISPRAVNA VERZIJA\PSUSUproject\DataConcentrator\bin\Debug\DataConcentrator.pdb
+C:\Users\Administrator\Desktop\Scada\Projekat - ISPRAVNA VERZIJA\PSUSUproject\DataConcentrator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Scada\Projekat - ISPRAVNA VERZIJA\PSUSUproject\DataConcentrator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\Scada\Projekat - ISPRAVNA VERZIJA\PSUSUproject\DataConcentrator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Scada\Projekat - ISPRAVNA VERZIJA\PSUSUproject\DataConcentrator\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\Scada\Projekat - ISPRAVNA VERZIJA\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Scada\Projekat - ISPRAVNA VERZIJA\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Scada\Projekat - ISPRAVNA VERZIJA\PSUSUproject\DataConcentrator\obj\Debug\DataConc.AF26BFFF.Up2Date
+C:\Users\Administrator\Desktop\Scada\Projekat - ISPRAVNA VERZIJA\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.dll
+C:\Users\Administrator\Desktop\Scada\Projekat - ISPRAVNA VERZIJA\PSUSUproject\DataConcentrator\obj\Debug\DataConcentrator.pdb

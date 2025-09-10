@@ -13,9 +13,9 @@ namespace DataConcentrator
 
     public abstract class Tag
     {
-        public TagType Type { get; protected set; }
-        public string Id { get; protected set; }
-        public string Description { get; set; }
+        public TagType Type { get; protected set; } // DI, DO, AI, AO
+        public string Id { get; protected set; } 
+        public string Description { get; set; } 
         public string IOAddress { get; protected set; }
         public Dictionary<string, object> Properties { get; } = new Dictionary<string, object>();
 
@@ -30,7 +30,7 @@ namespace DataConcentrator
 
     public class DigitalTag : Tag
     {
-        public int ScanTime { get; set; } // Only for input
+        public int ScanTime { get; set; } // Only for input, vreme skeniranja
         public bool OnOffScan { get; set; } // Only for input
 
         public DigitalTag(TagType type, string id, string description, string ioAddress, int scanTime = 0, bool onOffScan = false)

@@ -15,7 +15,7 @@ namespace DataConcentrator
     public class ContextClass
     {
         // Skladište svih tagova po ID
-        private Dictionary<string, Tag> tags = new Dictionary<string, Tag>();
+        private Dictionary<string, Tag> tags = new Dictionary<string, Tag>(); 
         // Skladište aktiviranih alarma
         private List<ActivatedAlarm> activatedAlarms = new List<ActivatedAlarm>();
 
@@ -117,6 +117,8 @@ namespace DataConcentrator
                 return;
             if (!(tag is AnalogTag analogTag) || analogTag.Type != TagType.AI)
                 return;
+            // Ispis promena vrednosti za testiranje
+            Console.WriteLine($"[SCADA] Tag: {analogTag.Id}, Value: {currentValue}");
             foreach (var alarm in analogTag.Alarms)
             {
                 bool isActive = false;

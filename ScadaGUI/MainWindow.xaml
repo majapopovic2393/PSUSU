@@ -75,16 +75,16 @@
         </GroupBox>
 
         <!-- Dugme za REPORT pomereno desno -->
-        <Button x:Name="ReportButton" Content="REPORT" Grid.Row="3" Grid.Column="1" Height="40" Margin="0,9,0,10" HorizontalAlignment="Center" Width="120" Click="ReportButton_Click"/>
+        <Button x:Name="ReportButton" Content="REPORT" Grid.Row="3" Grid.Column="1" Height="40" Margin="0,10,0,9" HorizontalAlignment="Center" Width="120" Click="ReportButton_Click"/>
 
         <!-- Prikaz poruka o alarmima -->
-        <GroupBox Header="Poruke o alarmima" Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Margin="5,19,5,54">
+        <GroupBox Header="Poruke o alarmima" Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Margin="5,5,5,54">
             <ListBox x:Name="AlarmMessagesListBox" Height="264"/>
         </GroupBox>
 
         <!-- Prikaz izlaznih tagova i ručno podešavanje vrednosti -->
-        <GroupBox Header="Izlazni tagovi (DO/AO)" Grid.Column="1" Margin="5,0,5,283" Grid.RowSpan="3">
-            <StackPanel>
+        <GroupBox Header="Izlazni tagovi (DO/AO)" Grid.Column="1" Margin="5,0,5,297" Grid.RowSpan="3">
+            <StackPanel Height="189">
                 <DataGrid x:Name="OutputsDataGrid" AutoGenerateColumns="False" IsReadOnly="False" SelectionMode="Single" Height="140">
                     <DataGrid.Columns>
                         <DataGridTextColumn Header="ID" Binding="{Binding Id}" IsReadOnly="True"/>
@@ -94,7 +94,7 @@
                         <DataGridTextColumn Header="Vrednost" Binding="{Binding Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
                     </DataGrid.Columns>
                 </DataGrid>
-                <Button Content="Postavi izlaz" Margin="2" Click="SetOutputButton_Click"/>
+                <Button Content="Postavi izlaz" Click="SetOutputButton_Click"/>
             </StackPanel>
         </GroupBox>
     </Grid>
