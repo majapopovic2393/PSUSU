@@ -1,58 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\scadagui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\scadagui\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|c:\\users\\korisnik\\desktop\\cetvrta godina letnji\\psusu\\projekat - ispravna verzija\\psusuproject\\dataconcentrator\\scadadatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\scadadatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\dataconcentrator\\contextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\dataconcentrator\\contextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\contextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Korisnik\\AppData\\Local\\Temp\\.vsdbgsrc\\361f82b6b9a328e1602d17ccc30c3c9a6486f38708e103ffe2d5612ce5556794\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|c:\\users\\administrator\\desktop\\scada\\projekat - ispravna verzija\\psusuproject\\scadagui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DataConcentrator||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\scadagui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\scadagui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\scadagui\\outputtagviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\outputtagviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC33BD88-1C29-4D05-8BB6-C41323290719}|PLCSimulator\\PLCSimulator.csproj|C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\plcsimulator\\plcsimulatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC33BD88-1C29-4D05-8BB6-C41323290719}|PLCSimulator\\PLCSimulator.csproj|solutionrelative:plcsimulator\\plcsimulatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\dataconcentrator\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\dataconcentrator\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\dataconcentrator\\scadadatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\scadadatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\dataconcentrator\\activatedalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\activatedalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\ee02343abd1f1009d178a24e2ba5feb2d5937d8806425bf1685c7e5eda5e3cdc\\RuntimeType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\dataconcentrator\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Korisnik\\AppData\\Local\\Temp\\.vsdbgsrc\\361f82b6b9a328e1602d17ccc30c3c9a6486f38708e103ffe2d5612ce5556794\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\scadagui\\outputtagviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\outputtagviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\scadagui\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DataConcentrator||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\dataconcentrator\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\dataconcentrator\\activatedalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{024884F0-496F-4426-A0CE-45FF39AE24A6}|DataConcentrator\\DataConcentrator.csproj|solutionrelative:dataconcentrator\\activatedalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC33BD88-1C29-4D05-8BB6-C41323290719}|PLCSimulator\\PLCSimulator.csproj|C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\plcsimulator\\plcsimulatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC33BD88-1C29-4D05-8BB6-C41323290719}|PLCSimulator\\PLCSimulator.csproj|solutionrelative:plcsimulator\\plcsimulatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\scadagui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\scadagui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E6C18285-8FF8-4C84-8FDD-2BB92D74B554}|ScadaGUI\\ScadaGUI.csproj|solutionrelative:scadagui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -63,55 +63,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ScadaGUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\MainWindow.xaml*",
-              "RelativeToolTip": "ScadaGUI\\MainWindow.xaml*",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAWwFoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-07T10:17:12.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ScadaDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\ScadaDatabase.cs",
-              "RelativeDocumentMoniker": "DataConcentrator\\ScadaDatabase.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\ScadaDatabase.cs",
-              "RelativeToolTip": "DataConcentrator\\ScadaDatabase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T12:10:12.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WpfXamlLoader.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\AppData\\Local\\Temp\\.vsdbgsrc\\361f82b6b9a328e1602d17ccc30c3c9a6486f38708e103ffe2d5612ce5556794\\WpfXamlLoader.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\361f82b6b9a328e1602d17ccc30c3c9a6486f38708e103ffe2d5612ce5556794\\WpfXamlLoader.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\AppData\\Local\\Temp\\.vsdbgsrc\\361f82b6b9a328e1602d17ccc30c3c9a6486f38708e103ffe2d5612ce5556794\\WpfXamlLoader.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\361f82b6b9a328e1602d17ccc30c3c9a6486f38708e103ffe2d5612ce5556794\\WpfXamlLoader.cs [Read Only]",
-              "ViewState": "AgIAAOQAAAAAAAAAAAAUwHcAAAADAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T12:17:53Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ScadaGUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\MainWindow.xaml*",
-              "RelativeToolTip": "ScadaGUI\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\MainWindow.xaml",
+              "RelativeToolTip": "ScadaGUI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-20T17:46:59.232Z",
               "EditorCaption": ""
@@ -119,45 +92,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "OutputTagViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\OutputTagViewModel.cs",
-              "RelativeDocumentMoniker": "ScadaGUI\\OutputTagViewModel.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\OutputTagViewModel.cs",
-              "RelativeToolTip": "ScadaGUI\\OutputTagViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAgAAAAAAAAAAAAAAA==",
+              "Title": "RuntimeType.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\ee02343abd1f1009d178a24e2ba5feb2d5937d8806425bf1685c7e5eda5e3cdc\\RuntimeType.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee02343abd1f1009d178a24e2ba5feb2d5937d8806425bf1685c7e5eda5e3cdc\\RuntimeType.cs",
+              "ToolTip": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\ee02343abd1f1009d178a24e2ba5feb2d5937d8806425bf1685c7e5eda5e3cdc\\RuntimeType.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee02343abd1f1009d178a24e2ba5feb2d5937d8806425bf1685c7e5eda5e3cdc\\RuntimeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T11:03:52.102Z"
+              "WhenOpened": "2025-09-07T10:18:51.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "WpfXamlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\AppData\\Local\\Temp\\.vsdbgsrc\\361f82b6b9a328e1602d17ccc30c3c9a6486f38708e103ffe2d5612ce5556794\\WpfXamlLoader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Korisnik\\AppData\\Local\\Temp\\.vsdbgsrc\\361f82b6b9a328e1602d17ccc30c3c9a6486f38708e103ffe2d5612ce5556794\\WpfXamlLoader.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\AppData\\Local\\Temp\\.vsdbgsrc\\361f82b6b9a328e1602d17ccc30c3c9a6486f38708e103ffe2d5612ce5556794\\WpfXamlLoader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Korisnik\\AppData\\Local\\Temp\\.vsdbgsrc\\361f82b6b9a328e1602d17ccc30c3c9a6486f38708e103ffe2d5612ce5556794\\WpfXamlLoader.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:17:53Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ContextClass.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\ContextClass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\ContextClass.cs",
               "RelativeDocumentMoniker": "DataConcentrator\\ContextClass.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\ContextClass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\ContextClass.cs",
               "RelativeToolTip": "DataConcentrator\\ContextClass.cs",
-              "ViewState": "AgIAANEAAAAAAAAAAAAMwNwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAMwNwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T17:55:14.955Z"
+              "WhenOpened": "2025-07-20T17:55:14.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataConcentrator",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\DataConcentrator.csproj",
-              "RelativeDocumentMoniker": "DataConcentrator\\DataConcentrator.csproj",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\DataConcentrator.csproj",
-              "RelativeToolTip": "DataConcentrator\\DataConcentrator.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-07T12:16:13.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Alarm.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\Alarm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\Alarm.cs",
               "RelativeDocumentMoniker": "DataConcentrator\\Alarm.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\Alarm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\Alarm.cs",
               "RelativeToolTip": "DataConcentrator\\Alarm.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,74 +145,109 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ActivatedAlarm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\ActivatedAlarm.cs",
+              "RelativeDocumentMoniker": "DataConcentrator\\ActivatedAlarm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\ActivatedAlarm.cs",
+              "RelativeToolTip": "DataConcentrator\\ActivatedAlarm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:55:04.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\Tag.cs",
+              "RelativeDocumentMoniker": "DataConcentrator\\Tag.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\Tag.cs",
+              "RelativeToolTip": "DataConcentrator\\Tag.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:46:33.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PLCSimulatorManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\PLCSimulator\\PLCSimulatorManager.cs",
+              "RelativeDocumentMoniker": "PLCSimulator\\PLCSimulatorManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\PLCSimulator\\PLCSimulatorManager.cs",
+              "RelativeToolTip": "PLCSimulator\\PLCSimulatorManager.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:46:41.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ScadaGUI\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\MainWindow.xaml.cs",
               "RelativeToolTip": "ScadaGUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAMQAAAAAAAAAAADwvxgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADgBAAAAAAAAAAAcwEQBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-06T13:11:21.084Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ActivatedAlarm.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\ActivatedAlarm.cs",
-              "RelativeDocumentMoniker": "DataConcentrator\\ActivatedAlarm.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\ActivatedAlarm.cs",
-              "RelativeToolTip": "DataConcentrator\\ActivatedAlarm.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DataConcentrator",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\DataConcentrator.csproj",
+              "RelativeDocumentMoniker": "DataConcentrator\\DataConcentrator.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\DataConcentrator.csproj",
+              "RelativeToolTip": "DataConcentrator\\DataConcentrator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-07T12:16:13.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScadaDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\ScadaDatabase.cs",
+              "RelativeDocumentMoniker": "DataConcentrator\\ScadaDatabase.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\ScadaDatabase.cs",
+              "RelativeToolTip": "DataConcentrator\\ScadaDatabase.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T17:55:04.361Z"
+              "WhenOpened": "2025-09-07T12:10:12.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OutputTagViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\OutputTagViewModel.cs",
+              "RelativeDocumentMoniker": "ScadaGUI\\OutputTagViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\OutputTagViewModel.cs",
+              "RelativeToolTip": "ScadaGUI\\OutputTagViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:03:52.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ScadaGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\MainWindow.xaml",
+              "RelativeToolTip": "ScadaGUI\\MainWindow.xaml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAnwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-07T10:17:12.87Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\App.xaml",
               "RelativeDocumentMoniker": "ScadaGUI\\App.xaml",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\App.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Scada\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\ScadaGUI\\App.xaml",
               "RelativeToolTip": "ScadaGUI\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-20T17:47:03.299Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PLCSimulatorManager.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\PLCSimulator\\PLCSimulatorManager.cs",
-              "RelativeDocumentMoniker": "PLCSimulator\\PLCSimulatorManager.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\PLCSimulator\\PLCSimulatorManager.cs",
-              "RelativeToolTip": "PLCSimulator\\PLCSimulatorManager.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAABRwAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T17:46:41.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\Tag.cs",
-              "RelativeDocumentMoniker": "DataConcentrator\\Tag.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\cetvrta godina letnji\\PSUSU\\Projekat - ISPRAVNA VERZIJA\\PSUSUproject\\DataConcentrator\\Tag.cs",
-              "RelativeToolTip": "DataConcentrator\\Tag.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAzwE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T17:46:33.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RuntimeType.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\ee02343abd1f1009d178a24e2ba5feb2d5937d8806425bf1685c7e5eda5e3cdc\\RuntimeType.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\ee02343abd1f1009d178a24e2ba5feb2d5937d8806425bf1685c7e5eda5e3cdc\\RuntimeType.cs",
-              "ToolTip": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\ee02343abd1f1009d178a24e2ba5feb2d5937d8806425bf1685c7e5eda5e3cdc\\RuntimeType.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\ee02343abd1f1009d178a24e2ba5feb2d5937d8806425bf1685c7e5eda5e3cdc\\RuntimeType.cs [Read Only]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T10:18:51.766Z",
-              "EditorCaption": " [Read Only]"
             }
           ]
         }

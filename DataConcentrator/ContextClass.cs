@@ -218,7 +218,7 @@ namespace DataConcentrator
                 conn.Open();
                 var cmd = conn.CreateCommand();
 
-                // Tagovi
+                // Tagovi.
                 cmd.CommandText = "SELECT * FROM Tagovi";
                 using (var reader = cmd.ExecuteReader())
                 {
